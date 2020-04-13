@@ -4,7 +4,7 @@
 
 예제)
 
-![Spring%20Boot%20Banner%20txt/Untitled.png](Spring%20Boot%20Banner%20txt/Untitled.png)
+![Untitled.png](Untitled.png)
 
 2.아래 사이트에서 아스키 텍스트 코드를 생성 후 생성된 Text를 복사해주세요.(Font는 본인 편한대로 명시 혹은 팀내 별도로 정의 필요)
 
@@ -18,4 +18,4 @@
 
 [4. Run](http://4.Run) 또는 maven install 시 War파일에 banner.txt파일이 포함되며 실제 Start시 아래와 같이 프로젝트에 대한 버전 명명 함께 명시됨을 확인 가능합니다.
 
-![Spring%20Boot%20Banner%20txt/Untitled%201.png](Spring%20Boot%20Banner%20txt/Untitled%201.png)
+![Untitled%201.png](Untitled%201.png)
