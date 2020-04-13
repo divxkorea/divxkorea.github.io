@@ -14,7 +14,7 @@
 
 예제)
 
-[banner.txt](Spring%20Boot%20Banner%20txt/banner.txt)
+[banner.txt](banner.txt)
 
 [4. Run](http://4.Run) 또는 maven install 시 War파일에 banner.txt파일이 포함되며 실제 Start시 아래와 같이 프로젝트에 대한 버전 명명 함께 명시됨을 확인 가능합니다.
 
